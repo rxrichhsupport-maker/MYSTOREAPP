@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>App Store App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <h1>Welcome to My App</h1>
+        <p>Built entirely on an iPad using web files!</p>
+        <button id="action-btn">Click Me</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
